@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC2Planner", "SC2Planner\SC2Planner.csproj", "{AAB9EA18-2DEF-483D-9308-80100A3BEB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB9EA18-2DEF-483D-9308-80100A3BEB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB9EA18-2DEF-483D-9308-80100A3BEB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB9EA18-2DEF-483D-9308-80100A3BEB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB9EA18-2DEF-483D-9308-80100A3BEB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA869022-22AF-4356-B2D6-2771DD0453E0}
+	EndGlobalSection
+EndGlobal
